@@ -1,0 +1,52 @@
+
+
+body {
+}
+
+h2 {
+  text-align: center;
+  font-family: Futura;
+}
+
+h1 {
+  padding: 10px;
+  text-align: center;
+  font-size: 60px;
+  font-family: Futura;
+  background-color: #FFB78B;
+}
+
+img {
+  margin-top: 5%;
+  width: 480px;
+  height: 50%;
+}
+
+ul li a {
+  color: red;
+}
+
+.red_link {
+  color: red;
+}
+.box {
+  padding-top: 20px;
+  border: 2px;
+  margin: 5px;
+}
+
+.classy {
+  color: #FF0000;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.shadow {
+  box-shadow: 5px 5px 5px #888888;
+}
+
+.center {
+  text-align: center;
+}
